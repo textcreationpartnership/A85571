@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great and bloody plot against the Protestants, discovered to have taken the castle at Dublin, and murthered the commissioners of Parliament. Divers taken prisoners, among whom were, the Lord Tath, Sir Edward Varney, Colonell Vane, Colonell Barrey, Captaine Poore, Captaine Treswell, Mr. Brent a lawyer, Alderman Joanes, Alderman Clerke, and divers others. With a declaration by the Suprem [sic] Councell of the Confederate Catholicks at Kilkenny: and their treachery against the English Protestants. Also severall great victories obtained by the Lord Inchequin in Munster. And the defeat of the Irish rebels under Owen Roe O Neale. Certified by the commissioners letters from Dublin, appointed to be printed and published. Philip Fernelley, Cleric. Parl. Dom. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85571</idno>
+            <idno type="STC">Wing G1648</idno>
+            <idno type="STC">Thomason E399_19</idno>
+            <idno type="STC">ESTC R201720</idno>
+            <idno type="EEBO-CITATION">99862219</idno>
+            <idno type="PROQUEST">99862219</idno>
+            <idno type="VID">114370</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85571)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114370)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E399[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great and bloody plot against the Protestants, discovered to have taken the castle at Dublin, and murthered the commissioners of Parliament. Divers taken prisoners, among whom were, the Lord Tath, Sir Edward Varney, Colonell Vane, Colonell Barrey, Captaine Poore, Captaine Treswell, Mr. Brent a lawyer, Alderman Joanes, Alderman Clerke, and divers others. With a declaration by the Suprem [sic] Councell of the Confederate Catholicks at Kilkenny: and their treachery against the English Protestants. Also severall great victories obtained by the Lord Inchequin in Munster. And the defeat of the Irish rebels under Owen Roe O Neale. Certified by the commissioners letters from Dublin, appointed to be printed and published. Philip Fernelley, Cleric. Parl. Dom. Com.</title>
+                  <author>Ireland. Parliament. House of Commons.</author>
+                  <author>Confederate Catholics. Supreme Council.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Confederate Catholics. --  Supreme Council --  Early works to 1800.</term>
+               <term>Protestants --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  1525-1649 --  Early works to 1800.</term>
+               <term>Dublin (Ireland) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114370:1" rendition="simple:additions"/>
+            <p>A Great and BLOODY PLOT AGAINST The Proteſtants, Diſcovered to have taken the Caſtle at <hi>Dublin,</hi> and murthered the Com<g ref="char:EOLhyphen"/>miſſioners of PARLIAMENT.</p>
+            <p>
+               <hi>Divers taken priſoners, among whom were,</hi>
+               <list>
+                  <item>The Lord <hi>Tath,</hi>
+                  </item>
+                  <item>Sir <hi>Edward Varney,</hi>
+                  </item>
+                  <item>Colonell <hi>Vane,</hi>
+                  </item>
+                  <item>Colonell <hi>Barrey,</hi>
+                  </item>
+                  <item>Captaine <hi>Poore,</hi>
+                  </item>
+                  <item>Captaine <hi>Treſwell,</hi>
+                  </item>
+                  <item>Mr. <hi>Brent</hi> a Lawyer,</item>
+                  <item>Alderman <hi>Joanes,</hi>
+                  </item>
+                  <item>Alderman <hi>Clerke,</hi>
+                  </item>
+                  <item>And divers others.</item>
+               </list>
+            </p>
+            <p>WITH A DECLARATION by the Supreme Councell of the Confederate Catholicks at KILKENNY: And their treachery againſt the ENGLISH Proteſtants.</p>
+            <p>
+               <hi>Alſo ſeverall great victories obtained by the Lord</hi> In<g ref="char:EOLhyphen"/>chequin <hi>in</hi> Munſter.</p>
+            <p>And the Defeat of the <hi>Iriſh</hi> Rebels under <hi>Owen Roe O Neale.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>CErtified by the Commiſſioners Letters from <hi>Dublin,</hi> appointed to be prin<g ref="char:EOLhyphen"/>ted and publiſhed,</p>
+                  <closer>
+                     <signed>Philip Fernelley, Cleric. Parl. Dom. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:114370:2"/>
+            <pb n="1" facs="tcp:114370:2"/>
+            <head>A Great and bloody PLOT againſt the Proteſtants diſcovered, to have taken the Caſtle at <hi>Dublin,</hi> and murthered the Commiſſioners of PARLIAMENT.</head>
+            <div type="body_of_account">
+               <opener>
+                  <dateline>
+                     <hi>Dublin,</hi> 
+                     <date>July 14. 1647.</date>
+                  </dateline>
+                  <salute>Right Honourable,</salute>
+               </opener>
+               <p>UPon Thurſday Major <hi>Gleg</hi> was buried nobly in <hi>Chriſtchurch,</hi> and Captain <hi>Villars</hi> is Major in his place. Upon Friday ſix Commiſſion<g ref="char:EOLhyphen"/>ers ſate at <hi>Corke houſe,</hi> who are appointed to agree with Delinquents for their eſtates. That day Sir <hi>Richard Barnwell</hi> compounded, Sir <hi>Andrew Elmore</hi> came with him to Town, likely for the ſame purpoſe: ſome comes in daily to compound, but that they hope for a new breaking out in <hi>England,</hi> moſt of the Coun<g ref="char:EOLhyphen"/>try would come in: That day Captain <hi>Wood,</hi> and Cap. <hi>Thomas Bartlet</hi> went with proviſion towards <hi>Sligo:</hi>
+               </p>
+               <p>Upon Friday night, hearing of this Proclamation ſome three hundred Troopers and Souldiers went to the Rebels, becauſe, as is ſuſpected, they might not have their former Officers to ſerve under, and I feare me for that cauſe many others will run unto them. That night Collonel <hi>Convey</hi> came to town with news
+<pb n="2" facs="tcp:114370:3"/>of taking a thouſand Cowes, beſides three hundred Horſe from the Rebels, from <hi>Charlemount.</hi>
+               </p>
+               <p>Upon Saturday it was concluded, but not fully known untill Munday what Commanders of Horſe ſhould be caſhcered, the news ſtomachs moſt, if not all of them, that day the Rebels took <hi>Codington,</hi> and foure or five more twelve miles from <hi>Dublin,</hi> in their way to <hi>Droghedah.</hi>
+               </p>
+               <p>Upon Tueſday our Army went forth with about three thouſand Horſe and foot, God ſend them a hap<g ref="char:EOLhyphen"/>py Victory and ſafe return.</p>
+               <p>The ſame day Captain <hi>Otley</hi> was buryed in St. <hi>Pa<g ref="char:EOLhyphen"/>tricks</hi> Church, and his Troop beſtowed on Captaine <hi>King,</hi> That night Sir <hi>Maurice Euſtace</hi> his Cows were taken away from Iriſh Townes three miles from <hi>Dub<g ref="char:EOLhyphen"/>lin:</hi> We heard that <hi>Preſton</hi> ſummoned the <hi>Naas,</hi> and is upon his journey thither, our Army is there by this time, if not further. It is reported that <hi>Owen Roe</hi> is on his march from <hi>Connought,</hi> and it is variouſly report<g ref="char:EOLhyphen"/>ed that he had an overthrow, but it is uncertaine, the contrary party reports the contrary, but I beleeve had he had any good ſucceſſe, he had not returned ſo ſoon from thence. The Churches are unprovided as yet of Miniſters, the Commiſſioners offers (as I heare) the old may continue, and uſe the Lords prayer, two Chapters, the Pſalmes, the Beliefe, and ten Comman<g ref="char:EOLhyphen"/>dements, but they will not Preach without they may uſe the ſame forme as they formerly have done. This day ſome of the Papiſts and Cavaliers party, had an intention to worke ſome plot againſt the Commiſſi<g ref="char:EOLhyphen"/>oners and Proteſtants, and as it is thought, to ſurprize the Caſtle of <hi>Dublin</hi> likewiſe, which conſpiracy as God would have it, the Commiſſioners had privat notice of, preſently ſtrong Guards were ſet about
+<pb n="3" facs="tcp:114370:3"/>Miſtreſſe <hi>Courteſies</hi> houſe, wherein were the <hi>Lord Tath,</hi> Col. <hi>Vane,</hi> Sir <hi>Edmond Varney,</hi> Col. <hi>Barry,</hi> Cap. <hi>Poore,</hi> Cap. <hi>Treſwell</hi> and <hi>Brent</hi> the Lawyer who are kept there. <hi>Alderman Joanes,</hi> and <hi>Alderman Clearke,</hi> bee committed upon examination, <hi>Varney</hi> and <hi>Treſwell</hi> were inlarged, what will become of the reſt, by the next you ſhall heare. God ſend us good newes from <hi>England</hi> or elſe wee bee but in a bad con<g ref="char:EOLhyphen"/>dition.</p>
+               <closer>
+                  <signed>Your humble Servants.</signed>
+               </closer>
+            </div>
+            <div type="copy_of_a_letter">
+               <head>We have ſent you here incloſed the Copie of a Letter from Munſter, and alſo a Declaration from the Supreme Councell of the Confederate Catholiques at Kilkenny.</head>
+               <opener>
+                  <salute>Right Honorable,</salute>
+               </opener>
+               <p>WE had a party ſent out the <hi>24</hi> of May, which re<g ref="char:EOLhyphen"/>turned the <hi>25,</hi> with <hi>600.</hi> head of Cattle, Sheep and Garrons. The <hi>28.</hi> of <hi>May,</hi> we ſent out another par<g ref="char:EOLhyphen"/>ty, which returned the <hi>31.</hi> with <hi>2000.</hi> and odde Cowes and Oxen, and in Sheep and Garrons ſo many that made them up <hi>6000.</hi> and odde. The third of June we ſent out another party, which returned the fifth, with about <hi>600.</hi> head of cattle beſids <hi>1500</hi> ſheep which the Soldiers killed ate in their return. They alſo took in a place called <hi>Caſtle Thomas.</hi> While the laſt party was abroad, we had <hi>100.</hi> horſe at a place, to make good a paſſage, which being care<g ref="char:EOLhyphen"/>leſſe, the enemy drew ſome Muskettiers through a wood, be<g ref="char:EOLhyphen"/>tween them and hom: So their horſe fell upon them in the Front, and the Muſketteers in the Reare, and killed betwixt <hi>30</hi> &amp; <hi>40</hi> of them. All our moneys is gone, and our proviſi<g ref="char:EOLhyphen"/>on will not laſt paſt <hi>6.</hi> or <hi>8.</hi> dayes, ſo that except there come a freſh ſupply out of England in the mean time, <hi>I</hi> know not what the Souldiers will doe for bread: for wheat
+<pb n="4" facs="tcp:114370:4"/>is farre dearer here then it is in England, and in many places not to be bought for money, and without wheat to make Bisket, the Army will never be able to continue in the field. It is true the Lord <hi>Inchiquin</hi> doth what lieth in him, but he wanteth aſsiſtance. We are now forced to leave the field, and goe to Garriſon for want of wheat and money.</p>
+               <closer>
+                  <signed>Your Honours humble ſervant, <hi>Francis Roe.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Youghall,</hi> 
+                     <date>
+                        <hi>Iuly 1. 1647.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="declaration">
+               <head>By the Supreme Councell of the Confederate Catho<g ref="char:EOLhyphen"/>licks of <hi>IRELAND.</hi>
+               </head>
+               <p>VVHereas many perſons of Honor and Gallantry, and others his Majeſties loyall Subjects, who faithfully ſerved againſt the Rebells of the Parliament of <hi>England,</hi> were by the power and malice of the ſaid Rebels, forcibly, and violently, tranſported into this Kingdome, or detained therein, to fight againſt his Maje<g ref="char:EOLhyphen"/>ſties loyall and dutifull Subjects the <hi>Confe<g ref="char:EOLhyphen"/>derate Catholicks</hi> of <hi>Ireland:</hi> Thereby to weak<g ref="char:EOLhyphen"/>en his Majeſties party; &amp; as much as in the ſaid Rebells lyeth, to extinguiſh this nation. We therefore in diſcharg of the duty, we owe to our Soveraigne Lord the King, the truſt re<g ref="char:EOLhyphen"/>poſed in us by this Kingdome and our de<g ref="char:EOLhyphen"/>ſire to preſerve them and us in loyalty, doe hereby publiſh and declare that all and every
+<pb n="5" facs="tcp:114370:4"/>the ſaid perſons of Honour, Commanders, Officers, Troopers and Souldiers 'who will depart from the ſervice of the ſaid Rebells in any Province of this Kingdome, and repaire either unto us, or any his Maje<g ref="char:EOLhyphen"/>ſties Armies in any of the ſaid Provinces under our commands, and ſerve againſt the ſaid Rebells, ſhall have and injoy ſafety and protection in their perſons, armes, and goods, and alſo ſhall be imployed in any of the ſaid Armies they will make choice of reſpectively, in equivalent command with thoſe they held or ſhall hold in the ſervice of the ſaid Re<g ref="char:EOLhyphen"/>bells at the time of their reſpective depar<g ref="char:EOLhyphen"/>ture from them, and ſhall poſſeſſe and in<g ref="char:EOLhyphen"/>joy equall entertainment, privileges, and advantages, with thoſe of their reſpective degrees in the ſervice of the ſaid <hi>Confederate Catholicks,</hi> without diſtinction of nation or Religion, ſo that every perſon departing as aforeſaid, doe take an Oath, to beare true faith and loyaltie to our ſoveraigne Lord King <hi>Charles</hi> his Heirs and Succeſſors, and be true and faithfull unto the ſaid <hi>Confede<g ref="char:EOLhyphen"/>rate Catholicks,</hi> and not to adviſe, contrive, conceale, or act any thing that may be, or
+<pb n="6" facs="tcp:114370:5"/>tend to their damage, or prejudice, and o<g ref="char:EOLhyphen"/>bey the commands, and orders of the ſu<g ref="char:EOLhyphen"/>preme councell, againſt his Majeſties ene<g ref="char:EOLhyphen"/>mies, and wee doe command all Generalls, Governours, Commanders, Officers and others his Majeſties Subjects, within our quar<g ref="char:EOLhyphen"/>ters, to take notice of, and render due o<g ref="char:EOLhyphen"/>bedience to this our publicke Act, and De<g ref="char:EOLhyphen"/>claration, and likewiſe not to moleſt hinder or trouble any perſon or perſons of honour command or otherwiſe comming or repair<g ref="char:EOLhyphen"/>ing hither from the ſaid enemies quarters in purſuance of this our Act and Declaration out to protect, guard, and defend them; either and every of them in their way and journey unto us.</p>
+               <closer>
+                  <dateline>
+                     <hi>Given at</hi> Kelkenny <date>
+                        <hi>the firſt day of</hi> July 1647.</date>
+                  </dateline>
+                  <signed>Antrim, Johannes Clonfertenſis, Nich. Fernenſis, Athenry, Louth, Nich. Plunket, Rich. Everard, Patrick, Darcy, &amp;c.</signed>
+               </closer>
+            </div>
+            <div type="resolution">
+               <head>
+                  <date>Die Lunae 14. Iulii, 1647.</date>
+               </head>
+               <p>THe Houſe underſtanding, that there is a reſolution to prorogue the Parliament, for ſome long time, and not knowing when they ſhall meet again did take into their conſideration the many good ſervices performed by Sir <hi>Maurice Euſtace,</hi> Knight, their Speaker, unto the Houſe, his ſingular affection to the Engliſh Nation, and publick Ser<g ref="char:EOLhyphen"/>vice, his earneſt endev<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur for the advancement of the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, the inveterate hatred and malice of the deteſtable Rebels, many wayes declared and acted againſt him, and the great expences which he hath been formerly at for the honour and ſervice of the Houſe. And ha<g ref="char:EOLhyphen"/>ving at preſent no better way of requitall, then to convey the memory thereof to poſterity, doe think fit in manifeſtation of their high eſteeme thereof, to declare, and doe hereby declare the ſame to be ſuch, as in all times ought to be remembred for his advantage. And do therefore order, that this be entred amongst the Act, and Orders of this Houſe.</p>
+               <trailer>Finis.</trailer>
+               <closer>
+                  <signed>Philip Ferneley, Cler. Parl. Dom. Com.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
